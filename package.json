@@ -1,0 +1,16 @@
+{
+  "name": "vibrant-cli",
+  "version": "1.0.0",
+  "description": "dumb cli for vibrant.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Sabry",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.2.0",
+    "node-vibrant": "^3.0.0",
+    "yargs": "^12.0.5"
+  }
+}
